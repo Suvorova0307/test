@@ -1,0 +1,7 @@
+body {
+	margin:0;
+    padding: 0;
+    min-width: 1200px;
+    color:#272c31;
+    background: #dedee4 url("../img/bg-main.png") no-repeat cover;
+    background-position: center 53px;
