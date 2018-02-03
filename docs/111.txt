@@ -3,12 +3,5 @@ sdkcsdjv
 125469
 
 
-<<<<<<< HEAD
-git master branch
-=======
-<<<<<<< HEAD
 new branch 
-=======
 git master branch
->>>>>>> master
->>>>>>> new_branch
